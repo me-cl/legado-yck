@@ -35,7 +35,7 @@ Git仓库不支持一键导入，请前往 [legado.aoaostar.com](https://legado.
 * 全量书源 🔥
     
     + [访问直链](https://github.com/me-cl/legado-yck/tree/release/cache/8274870a1493d7c4e51c41682a8d1e9500457826.json)
-    + [一键导入](legado://import/bookSource?src=https://github.com/me-cl/legado-yck/raw/release/cache/8274870a1493d7c4e51c41682a8d1e9500457826.json)
+    + <span><a href="legado://import/bookSource?src=https://github.com/me-cl/legado-yck/raw/release/cache/8274870a1493d7c4e51c41682a8d1e9500457826.json">一键导入</a></span>
     + 上一次同步状态: 同步成功, 共 8142 条
     + 更新时间: 2024-06-10 08:52:27
     + 同步时间: 2024-06-10 08:52:27
@@ -45,7 +45,7 @@ Git仓库不支持一键导入，请前往 [legado.aoaostar.com](https://legado.
 * 全量书源 (服务端已校检) 🔥
     
     + [访问直链](https://github.com/me-cl/legado-yck/raw/release/cache/3fc2c64c5489c491de6284dca2c2dfce7f551bc9.json)
-    + [一键导入](legado://import/bookSource?src=https://github.com/me-cl/legado-yck/raw/release/cache/3fc2c64c5489c491de6284dca2c2dfce7f551bc9.json)
+    + <span><a href="legado://import/bookSource?src=https://github.com/me-cl/legado-yck/raw/release/cache/3fc2c64c5489c491de6284dca2c2dfce7f551bc9.json">一键导入</a></span>
     + 上一次同步状态: 同步成功, 共 7026 条
     + 更新时间: 2024-06-10 08:52:27
     + 同步时间: 2024-06-10 08:52:27
